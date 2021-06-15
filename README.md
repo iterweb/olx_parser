@@ -11,4 +11,4 @@
 * ```pip install -r requirements.txt``` 
 
 ### Запуск
-```python parser.ry```
+```python parser.py```
